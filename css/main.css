@@ -4,3 +4,34 @@
 .nav-menu{
   text-align: right;
 }
+.image-link{
+  text-decoration: none;
+}
+.header{
+  text-align: center; 
+  margin: 0 0 80px;
+}
+.whale-img{
+  display:block; 
+  margin: 0 auto;
+}
+.tale{
+  width: 500px; 
+  margin: 20px auto; 
+  padding: 30px; 
+  background-color: #fafafa;
+}
+.moby-dick-img{
+  float: left; 
+  margin-right: 40px;
+}
+.blockquote{
+  font-style: italic; 
+  font-size: 20px;
+}
+.ishmael{
+  font-style: normal; 
+  font-size: 24px; 
+  font-weight: bold; 
+  color: #ff0000;
+}
